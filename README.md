@@ -3,7 +3,7 @@
 
 The BMW automotive market spans a wide range of models, fuel technologies, and customer preferences. However, raw listing data alone does not clearly explain which models drive volume, how market demand has evolved, or where BMW’s value and tax exposure truly lie.
 
-This project analyzes BMW car listings data sourced from GitHub, transforming raw vehicle records into a clear analytical story using Power Query for data preparation and Power BI for visualization.
+This project analyzes BMW car listings data sourced from Kaggle, transforming raw vehicle records into a clear analytical story using Power Query for data preparation and Power BI for visualization.
 
 The dashboard answers critical business questions such as:
 
